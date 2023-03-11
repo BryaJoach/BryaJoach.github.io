@@ -1,6 +1,6 @@
 # Bryan Imafidon
 
-# [Project 1: RBB Data Entry submission form](https://github.com/BryaJoach/Bryan.Portfolio.io/tree/Files-and-Projects)
+# [Project 1: Data Entry Form](https://github.com/BryaJoach/Bryan.Portfolio.io/tree/Files-and-Projects)
 * Data Entry form made in Python to quickly and efficiently automate the submission of Quality Concern Reports
 * Transferred data to Excel Workbook database where Engineers would be able to access pull up each unique report code
 * Built using Pandas, Numpy, and PySimpleGUI
