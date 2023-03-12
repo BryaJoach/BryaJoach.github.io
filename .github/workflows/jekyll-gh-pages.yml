@@ -41,7 +41,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ https://bryajoach.github.io/Bryan.Portfolio.io/ }}
+      url: ${{ https://bryajoach.github.io }}
     runs-on: ubuntu-latest
     needs: build
     steps:
